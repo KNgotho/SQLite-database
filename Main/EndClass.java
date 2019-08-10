@@ -49,7 +49,7 @@ public class EndClass extends AppCompatActivity {
            idview.setText(id);
 
        }
-
+res.close();
 
     }
     // CLose the database and application after pressing the button close
